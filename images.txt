@@ -8,4 +8,4 @@
 #docker.io
 #docker-nginx-php-mysql
 #zhuifengshaonianhanlu/pikachu
-pikachu
+8023/pikachu-expect:latest
