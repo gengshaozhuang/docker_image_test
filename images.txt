@@ -6,5 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #vulnerables/web-dvwa
 #docker.io
-docker-nginx-php-mysql
-zhuifengshaonianhanlu/pikachu
+#docker-nginx-php-mysql
+#zhuifengshaonianhanlu/pikachu
+pikachu
