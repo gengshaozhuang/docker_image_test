@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #vulnerables/web-dvwa
 #docker.io
-apache
+zhuifengshaonianhanlu/pikachu
+mysql
