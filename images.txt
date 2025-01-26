@@ -8,8 +8,8 @@
 #docker.io
 #docker-nginx-php-mysql
 #zhuifengshaonianhanlu/pikachu
-8023/pikachu-expect:latest
-pikachu
+#8023/pikachu-expect:latest
+#pikachu
 php:7.4-fpm
 mysql:5.7
 nginx:latest
