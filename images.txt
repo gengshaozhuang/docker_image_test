@@ -14,4 +14,5 @@
 #mysql:5.7
 #nginx
 #php:7-fpm-alpine
-nginx:alpine
+#nginx:alpine
+nginx:latest
