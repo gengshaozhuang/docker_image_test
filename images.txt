@@ -21,4 +21,5 @@
 #php:8-fpm-alpine
 #php:7.4-fpm
 #mysql:5.7
-devilbox/php-fpm-7.4:latest
+#devilbox/php-fpm-7.4:latest
+php:fpm
