@@ -10,12 +10,14 @@
 #zhuifengshaonianhanlu/pikachu
 #8023/pikachu-expect:latest
 #pikachu
-php:7.4-fpm
-mysql:5.7
+#php:7.4-fpm
+#mysql:5.7
 #nginx
 #php:7-fpm-alpine
 #nginx:alpine
 #nginx:latest
 #mysql:latest
 #php:5.6-fpm
-php:8-fpm-alpine
+#php:8-fpm-alpine
+php:7.4-fpm
+mysql:5.7
