@@ -24,4 +24,8 @@
 #devilbox/php-fpm-7.4:latest
 #php:fpm
 #mysql:latest
-zabbix/zabbix
+zabbix/zabbix-server-mysql:latest
+zabbix/zabbix-web-nginx-mysql:latest
+zabbix/zabbix-agent:latest
+mysql:8.0
+mysql:5.7
