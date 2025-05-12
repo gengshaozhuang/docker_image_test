@@ -24,4 +24,4 @@
 #devilbox/php-fpm-7.4:latest
 #php:fpm
 #mysql:latest
-zabbix:latest
+zabbix/zabbix
