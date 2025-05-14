@@ -29,5 +29,6 @@
 #zabbix/zabbix-agent:latest
 #mysql:8.0
 #mysql:5.7
-beginor/gitlab-ce:11.3.0-ce.0
-jenkins/jenkins
+#beginor/gitlab-ce:11.3.0-ce.0
+#jenkins/jenkins
+maven:latest
