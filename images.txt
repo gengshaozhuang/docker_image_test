@@ -32,5 +32,6 @@
 #beginor/gitlab-ce:11.3.0-ce.0
 #jenkins/jenkins
 #maven:latest
-gitlab/gitlab-ee:latest
-jenkins/jenkins:lts
+#gitlab/gitlab-ee:latest
+#jenkins/jenkins:lts
+jenkins/jenkins:lts-with-maven
