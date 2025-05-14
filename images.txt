@@ -34,4 +34,4 @@
 #maven:latest
 #gitlab/gitlab-ee:latest
 #jenkins/jenkins:lts
-jenkins/jenkins:lts-with-maven
+#jenkins/jenkins:lts-with-maven
