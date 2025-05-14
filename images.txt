@@ -24,8 +24,10 @@
 #devilbox/php-fpm-7.4:latest
 #php:fpm
 #mysql:latest
-zabbix/zabbix-server-mysql:latest
-zabbix/zabbix-web-nginx-mysql:latest
-zabbix/zabbix-agent:latest
-mysql:8.0
-mysql:5.7
+#zabbix/zabbix-server-mysql:latest
+#zabbix/zabbix-web-nginx-mysql:latest
+#zabbix/zabbix-agent:latest
+#mysql:8.0
+#mysql:5.7
+beginor/gitlab-ce:11.3.0-ce.0
+jenkins/jenkins
