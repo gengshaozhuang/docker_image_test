@@ -35,3 +35,4 @@
 #gitlab/gitlab-ee:latest
 #jenkins/jenkins:lts
 #jenkins/jenkins:lts-with-maven
+gitlab/gitlab-ee:17.10.6-ee.0
