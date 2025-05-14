@@ -31,4 +31,6 @@
 #mysql:5.7
 #beginor/gitlab-ce:11.3.0-ce.0
 #jenkins/jenkins
-maven:latest
+#maven:latest
+gitlab/gitlab-ee:latest
+jenkins/jenkins:lts
