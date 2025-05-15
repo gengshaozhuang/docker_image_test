@@ -36,4 +36,9 @@
 #jenkins/jenkins:lts
 #jenkins/jenkins:lts-with-maven
 #gitlab/gitlab-ee:17.10.6-ee.0
-jenkins/jenkins:lts-jdk21
+#jenkins/jenkins:lts-jdk21
+docker.elastic.co/elasticsearch/elasticsearch:7.17.9
+docker.elastic.co/kibana/kibana:7.17.9
+rabbitmq:3-management
+redis:7
+docker.elastic.co/logstash/logstash:7.17.9
