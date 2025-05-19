@@ -46,5 +46,6 @@
 #centos:7
 #ubuntu:20.04
 #ubuntu:22.04
-gitlab/gitlab-ce:latest
+#gitlab/gitlab-ce:latest
 #jenkins/jenkins:lts
+prom/prometheus:latest
