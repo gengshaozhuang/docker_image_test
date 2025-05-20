@@ -52,4 +52,5 @@
 #prom/prometheus:latest
 #quay.io/prometheus/node-exporter:latest
 #grafana/grafana:latest
-registry.k8s.io/pause:3.8
+#registry.k8s.io/pause:3.8
+kubernetes/registry.k8s.io
