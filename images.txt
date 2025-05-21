@@ -54,4 +54,5 @@
 #grafana/grafana:latest
 #registry.k8s.io/pause:3.8
 #kubernetes/registry.k8s.io
-registry.k8s.io/pause:3.10
+#registry.k8s.io/pause:3.10
+goharbor/harbor:latest
