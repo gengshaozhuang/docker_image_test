@@ -55,4 +55,5 @@
 #registry.k8s.io/pause:3.8
 #kubernetes/registry.k8s.io
 #registry.k8s.io/pause:3.10
-goharbor/harbor:latest
+#goharbor/harbor:latest
+goharbor/prepare:v2.3.2
