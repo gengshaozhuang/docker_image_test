@@ -84,6 +84,10 @@ docker.io/calico/kube-controllers:v3.30.0
 #registry.k8s.io/ingress-nginx/kube-webhook-#certgen:v1.5.3@sha256:2cf4ebfa82a37c357455458f6dfc334aea1392d508270b2517795a9933a02524
 #nginx:1.12.0
 #nginx:1.18.0
-goharbor/harbor-core:v2.8.2
-goharbor/harbor-portal:v2.8.2
-goharbor/nginx-photon:v2.8.2
+#goharbor/harbor-core:v2.8.2
+#goharbor/harbor-portal:v2.8.2
+#goharbor/nginx-photon:v2.8.2
+goharbor/harbor-db:v2.8.2
+goharbor/redis-photon:v2.8.2
+goharbor/registry-photon:v2.8.2
+goharbor/harbor-jobservice:v2.8.2
