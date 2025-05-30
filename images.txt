@@ -91,4 +91,5 @@ docker.io/calico/kube-controllers:v3.30.0
 #goharbor/redis-photon:v2.8.2
 #goharbor/registry-photon:v2.8.2
 #goharbor/harbor-jobservice:v2.8.2
-rancher/rancher:v2.4.4
+#rancher/rancher:v2.4.4
+rancher/rancher-agent:v2.4.4
