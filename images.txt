@@ -60,9 +60,9 @@
 #docker.io/calico/cni:v3.25.0
 #docker.io/calico/node:v3.25.0
 #docker.io/calico/kube-controllers:v3.25.0
-docker.io/calico/cni:v3.30.0
-docker.io/calico/node:v3.30.0
-docker.io/calico/kube-controllers:v3.30.0
+#docker.io/calico/cni:v3.30.0
+#docker.io/calico/node:v3.30.0
+#docker.io/calico/kube-controllers:v3.30.0
 #kubernetesui/dashboard:v2.7.0
 #kubernetesui/metrics-scraper:v1.0.8
 #registry.k8s.io/pause:3.9
@@ -78,9 +78,9 @@ docker.io/calico/kube-controllers:v3.30.0
 #k8s.gcr.io/coredns:v1.12.0
 #k8s.gcr.io/etcd:3.5.21-0
 #redis:7.2.7-alpine
-#registry.k8s.io/ingress-nginx/controller:v1.9.4@sha256:5b161f051d017e55d358435f295f5e9a297e66158f136321d9b04520ec6c48a3
+#registry.k8s.io/ingress-#nginx/controller:v1.9.4@sha256:5b161f051d017e55d358435f295f5e9a297e66158f136321d9b04520ec6c48a3
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20231011-#8b53cabe0@sha256:a7943503b45d552785aa3b5e457f169a5661fb94d82b8a3373bcd9ebaf9aac80
-#registry.k8s.io/ingress-nginx/controller:v1.12.2@sha256:03497ee984628e95eca9b2279e3f3a3c1685dd48635479e627d219f00c8eefa9
+#registry.k8s.io/ingress-#nginx/controller:v1.12.2@sha256:03497ee984628e95eca9b2279e3f3a3c1685dd48635479e627d219f00c8eefa9
 #registry.k8s.io/ingress-nginx/kube-webhook-#certgen:v1.5.3@sha256:2cf4ebfa82a37c357455458f6dfc334aea1392d508270b2517795a9933a02524
 #nginx:1.12.0
 #nginx:1.18.0
@@ -98,4 +98,5 @@ docker.io/calico/kube-controllers:v3.30.0
 #rancher/rancher-agent:v2.11.1
 #rancher/rancher-agent:v2.11.2
 #rabbitmq:3.12-management
-nacos/nacos-server:latest
+#nacos/nacos-server:latest
+docker.elastic.co/elasticsearch/elasticsearch:8.13.4
