@@ -97,4 +97,5 @@ docker.io/calico/kube-controllers:v3.30.0
 #rancher/rancher:v2.7.10
 #rancher/rancher-agent:v2.11.1
 #rancher/rancher-agent:v2.11.2
-rabbitmq:3.12-management
+#rabbitmq:3.12-management
+nacos/nacos-server:latest
