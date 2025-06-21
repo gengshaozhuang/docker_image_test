@@ -107,4 +107,5 @@
 #nacos/nacos-server:latest
 #library/elasticsearch:5.3
 #nacos/nacos-server:v2.1.1
-nacos/nacos-server:v2.2.3
+#nacos/nacos-server:v2.2.3
+zookeeper
