@@ -109,4 +109,5 @@
 #nacos/nacos-server:v2.1.1
 #nacos/nacos-server:v2.2.3
 #zookeeper
-wnameless/oracle-xe-11g-r2
+#wnameless/oracle-xe-11g-r2
+quay.io/submariner/submariner-operator:0.20.1
