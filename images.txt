@@ -110,4 +110,7 @@
 #nacos/nacos-server:v2.2.3
 #zookeeper
 #wnameless/oracle-xe-11g-r2
-quay.io/submariner/submariner-operator:0.20.1
+#quay.io/submariner/submariner-operator:0.20.1
+quay.io/submariner/submariner:v0.20.1
+docker.io/library/debian:buster
+docker.io/library/golang:1.23
