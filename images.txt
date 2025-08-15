@@ -114,4 +114,5 @@
 #quay.io/submariner/submariner:v0.20.1
 #docker.io/library/debian:buster
 #docker.io/library/golang:1.23
-prometheus-ipmi-exporter
+#prometheus-ipmi-exporter
+prometheuscommunity/ipmi-exporter:latest
