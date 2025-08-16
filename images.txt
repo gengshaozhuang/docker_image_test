@@ -116,4 +116,5 @@
 #docker.io/library/golang:1.23
 #prometheus-ipmi-exporter
 #prometheuscommunity/ipmi-exporter:latest
-google/cadvisor:latest
+#google/cadvisor:latest
+gcr.io/cadvisor/cadvisor:latest
