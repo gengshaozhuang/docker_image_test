@@ -115,4 +115,5 @@
 #docker.io/library/debian:buster
 #docker.io/library/golang:1.23
 #prometheus-ipmi-exporter
-prometheuscommunity/ipmi-exporter:latest
+#prometheuscommunity/ipmi-exporter:latest
+google/cadvisor:latest
