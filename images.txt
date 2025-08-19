@@ -120,3 +120,4 @@
 #gcr.io/cadvisor/cadvisor:latest
 #prom/blackbox-exporter:latest
 nginx:latest
+mysql:latest
