@@ -119,5 +119,7 @@
 #google/cadvisor:latest
 #gcr.io/cadvisor/cadvisor:latest
 #prom/blackbox-exporter:latest
-nginx:latest
-mysql:latest
+#nginx:latest
+#mysql:latest
+fatedier/frps
+fatedier/frpc
