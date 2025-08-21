@@ -121,5 +121,5 @@
 #prom/blackbox-exporter:latest
 #nginx:latest
 #mysql:latest
-fatedier/frps
-fatedier/frpc
+fatedier/frps:v0.64.0
+fatedier/frpc:v0.64.0
