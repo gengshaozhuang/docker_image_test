@@ -1,4 +1,4 @@
-#nginx:1.28.0
+nginx:1.12.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
@@ -126,4 +126,4 @@
 #snipe/snipe-it:v8.2.1
 #metersphere/metersphere-ce-allinone:v3.6
 #metersphere/metersphere-ce-allinone:v3.6.2-lts
-ubuntu-build-env:20.04
+#ubuntu-build-env:20.04
