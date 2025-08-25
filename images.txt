@@ -125,4 +125,5 @@
 #fatedier/frpc:v0.64.0
 #snipe/snipe-it:v8.2.1
 #metersphere/metersphere-ce-allinone:v3.6
-metersphere/metersphere-ce-allinone:v3.6.2-lts
+#metersphere/metersphere-ce-allinone:v3.6.2-lts
+ubuntu-build-env:20.04
