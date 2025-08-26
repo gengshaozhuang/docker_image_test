@@ -127,4 +127,5 @@
 #metersphere/metersphere-ce-allinone:v3.6
 #metersphere/metersphere-ce-allinone:v3.6.2-lts
 #ubuntu-build-env:20.04
-ubuntu-build-env:20.04
+#ubuntu-build-env:20.04
+python:3.10-slim
