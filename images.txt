@@ -131,5 +131,5 @@
 #python:3.10-slim
 #nvcr.io/nvidia/pytorch:25.08-py3
 #nvcr.io/nvidia/pytorch:24.10-py3
-gitlab/gitlab-ce:18.2.6
-gitlab/gitlab-ce:18.1.6
+gitlab/gitlab-ce:v18.2.6-ee
+gitlab/gitlab-ce:v18.1.6-ee
