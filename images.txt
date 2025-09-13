@@ -133,5 +133,7 @@
 #nvcr.io/nvidia/pytorch:24.10-py3
 #gitlab:v18.2.6-ee
 #gitlab:v18.1.6-ee
-gitlabhq/gitlabhq:v18.2.6
-gitlabhq/gitlabhq:v18.1.6
+#gitlabhq/gitlabhq:v18.2.6
+#gitlabhq/gitlabhq:v18.1.6
+gitlabhq:v18.1.6
+gitlabhq:v18.2.6
