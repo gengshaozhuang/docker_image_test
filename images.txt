@@ -135,5 +135,9 @@
 #gitlab:v18.1.6-ee
 #gitlabhq/gitlabhq:v18.2.6
 #gitlabhq/gitlabhq:v18.1.6
-gitlabhq:v18.1.6
-gitlabhq:v18.2.6
+#gitlabhq:v18.1.6
+#gitlabhq:v18.2.6
+gitlab/gitlab-ce:18.2.6-ce.0
+gitlab/gitlab-ce:18.3.2-ce.0
+gitlab/gitlab-ee:18.2.6-ee.0
+gitlab/gitlab-ee:latest
